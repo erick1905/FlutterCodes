@@ -1,0 +1,11 @@
+1. **Flutter Basics:** You've gained a basic understanding of Flutter, a popular framework for building cross-platform mobile applications. You've learned how to create user interfaces, handle user input, and navigate between screens.
+
+2. **User Interface (UI) Design:** You've learned how to design a simple user interface with text input fields, buttons, and dialogs. Understanding UI design is crucial for creating visually appealing and user-friendly apps.
+
+3. **State Management:** You've explored the concept of state management in Flutter. In this app, you used `setState` to manage the state of the login and password fields, as well as the authorized status.
+
+4. **Dialogs and Alerts:** You've learned how to display dialogs and alerts to provide feedback to users. In this case, you used an `AlertDialog` to inform users whether they were authorized or not.
+
+5. **Navigation:** You've discovered how to navigate between different screens or views in a Flutter app. By pushing a new screen onto the navigation stack, you can transition from the login screen to the welcome screen upon successful login.
+
+These skills provide a solid foundation for further learning and development in Flutter and mobile app development in general. As you continue to explore Flutter and its ecosystem, you'll be able to create more complex and feature-rich applications.
